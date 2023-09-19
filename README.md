@@ -6,3 +6,4 @@ teste markdown
 <INGRID>
 >INGRID
 @DarleneLima
+![image](https://github.com/Ingridlog/atividadeinfo/assets/144140723/4ab24848-a722-4925-9977-b98cdf8cb8b5)
